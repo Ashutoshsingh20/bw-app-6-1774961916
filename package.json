@@ -1,7 +1,7 @@
 {
   "name": "bw-app-6-1774961916",
   "version": "1.0.0",
-  "description": "Glacier Signal monochrome ops dashboard",
+  "description": "Polar Beacon monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
